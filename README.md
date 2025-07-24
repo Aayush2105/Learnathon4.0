@@ -28,16 +28,16 @@ Built with **Streamlit** for a user-friendly web interface and trained using a *
 ## 🔗 Useful Links
 
 - 🚀 Live Streamlit App: [Click to open](https://learnathon4.streamlit.app/)
-- 💻 GitHub Repository: [GitHub Repo](https://github.com/Aayush2105/Learnathon4.0)
-- 📊 Colab Notebook: [Open in Colab](https://colab.research.google.com/drive/1LGs3Pn8tQUVE-Iz-YBXX-l_sd7gonMr5#scrollTo=pKHBNX2MpkKc)
+- 💻 Presentation PPT: [Click to open](https://docs.google.com/presentation/d/1yA5KemV_WinnJ6Q26Ll0PVhmbGvZJskX/edit?usp=drivesdk&ouid=116162307691626100572&rtpof=true&sd=true)
+- 📊 Youtube Video : [Click to open](https://drive.google.com/file/d/18OpZ3tKz2dOXrZpHOJ_meiKYsgqDoR3o/view?usp=drivesdk)
 
 
 Team no-09
 
 Team Members:
-Aayush Patel(23CSE517)
-Prakash Gain(23CSE607)
-Abhipsha patnaik(23CSE610)
+Aayush Patel(23CSE517),
+Prakash Gain(23CSE607),
+Abhipsha patnaik(23CSE610),
 Abhipsha Giri(23CSE692)
 
 
